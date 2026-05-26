@@ -1,4 +1,4 @@
-# Sprint-2
+# Serviços de Manutenção Residencial
 SENAI - Projeto de Serviços de Manutenção Residencial
 
 Definição da stack tecnológica (Linguagem, Framework, Banco de Dados Relacional/NoSQL):
